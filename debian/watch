@@ -1,0 +1,2 @@
+version=3
+https://github.com/yonik/noggit/tags .*/(?:noggit-|v)([\d\.]+).tar.gz
