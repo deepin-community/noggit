@@ -1,5 +1,26 @@
-template-repository (1.0-1) unstable; urgency=medium
+noggit (0.8-1) unstable; urgency=medium
 
-  * Initial release
+  * Team upload.
+  * New upstream version 0.8
+  * Update Standards-Version to 4.5.0
+  * Use debhelper-compat.
+    - Update to compat level 13.
+  * Mark Vcs to salsa.
+  * Remove cdbs from d/rules.
+  * Remove build dependency on cdbs.
+  * Add Rules-Requires-Root: no.
+  * Use https with URI.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Sudip Mukherjee <sudipm.mukherjee@gmail.com>  Fri, 15 May 2020 21:36:34 +0100
+
+noggit (0.7-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Emmanuel Bourg <ebourg@apache.org>  Wed, 24 Dec 2014 14:53:20 +0100
+
+noggit (0.6-1) unstable; urgency=medium
+
+  * Initial release (Closes: #769224)
+
+ -- Emmanuel Bourg <ebourg@apache.org>  Tue, 11 Nov 2014 23:22:28 +0100
